@@ -33,10 +33,10 @@ This file provides detailed answers to the questions in the corresponding file, 
 ### Final Exam Resources  
 
 #### Final Exam - Moed A  
-- **[Final Exam Moed A - PART A.docx](./Final%20Exam%20Moed%20A%20-%2027032024%20-%20PART%20A.docx)**  
+- 📄 **[Final Exam Moed A - PART A.docx](./Final%20Exam%20Moed%20A%20-%2027032024%20-%20PART%20A.docx)**  
   Refers to the first part of the first final exam conducted in the **2024a first term**.  
 
-- **[Final Exam Moed A - PART B.docx](./Final%20Exam%20Moed%20A%20-%2027032024%20-%20PART%20B.docx)**  
+- 📄 **[Final Exam Moed A - PART B.docx](./Final%20Exam%20Moed%20A%20-%2027032024%20-%20PART%20B.docx)**  
   Refers to the second part of the first final exam conducted in the **2024a first term**.  
 
 - 📄 **[Final Exam Moed A - ANS.xlsx](./Final%20Exam%20Moed%20A%20-%20ANS.xlsx)**  
