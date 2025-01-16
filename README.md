@@ -1,134 +1,68 @@
-Take this: Ariel-Iss-Measurement
-Public
-shaytsaban/Ariel-Iss-Measurement
-Go to file
-t
-Add file
-Folders and files
-Name		
-Latest commit
-shaytsaban
-shaytsaban
-Add files via upload
-4212adc
- · 
-now
-History
-CourseNotes - Ariel - Issues in Measurement A - 2025 A.xlsx
-Add files via upload
-2 minutes ago
-Final Exam Moed A - 27032024 - PART A.docx
-Add files via upload
-yesterday
-Final Exam Moed A - 27032024 - PART B.docx
-Add files via upload
-yesterday
-Final Exam Moed A - ANS.xlsx
-Add files via upload
-yesterday
-Final Exam Moed B - 02052024 - ANS.xlsx
-Add files via upload
-now
-Final Exam Moed B - 02052024 - PART A.docx
-Add files via upload
-1 minute ago
-Final Exam Moed B - 02052024 - PART B.docx
-Add files via upload
-1 minute ago
-Non Profit Organizations Questions - ANS.xlsx
-Add files via upload
-5 days ago
-Non Profit Organizations Questions - NO ANS.pdf
-Add files via upload
-5 days ago
-README.md
-Update README.md
-yesterday
-Repository files navigation
-README
-Ariel - Issues in Measurement A
-Repository Overview
-Welcome to the repository for Ariel - Issues in Measurement A, a course focused on advanced accounting topics. This repository contains essential materials, including course notes and specific resources on accounting principles for non-profit organizations, aligned with Israeli Standard 40.
+# 🎓 Ariel - Issues in Measurement A Repository 🌟  
+Welcome to the **Ariel - Issues in Measurement A** repository! This is your go-to resource for mastering advanced accounting topics, including **measurement principles** and **accounting for non-profit organizations** aligned with **Israeli Standard 40**.  
 
-Course Materials
-Course Notes
-📄 CourseNotes - Ariel - Issues in Measurement A - 2025 A.xlsx
-This comprehensive file includes:
+Dive into the materials, explore examples, and ace your exams with confidence! 🚀  
 
-Definitions
-Theory-based questions and answers
-Core concepts of measurement in accounting
-This is the primary resource for the course and contains all the necessary materials for lectures and assignments.
+---
 
-Non-Profit Organizations Resources
-Questions Only
-📄 Non Profit Organizations Questions - NO ANS.pdf
-This file includes questions based on accounting principles for non-profit organizations as per Israeli Standard 40.
+## 📂 Repository Overview  
+Here’s what you’ll find in this repository:  
 
-Questions with Answers
-📄 Non Profit Organizations Questions - ANS.xlsx
-This file provides detailed answers to the questions in the corresponding file, focusing on the application of Israeli Standard 40 in non-profit organization accounting.
+### 1️⃣ **Course Notes**  
+📄 [**CourseNotes - Ariel - Issues in Measurement A - 2025 A.xlsx**](./CourseNotes%20-%20Ariel%20-%20Issues%20in%20Measurement%20A%20-%202025%20A.xlsx)  
+Your comprehensive guide to the course! Includes:  
+- Definitions 📘  
+- Theory-based questions and answers ✍️  
+- Core concepts of measurement in accounting 💼  
 
-Final Exam Resources
-Final Exam - Moed A
-📄 Final Exam Moed A - PART A.docx
-Refers to the first part of the first final exam conducted in the 2024a first term.
+### 2️⃣ **Non-Profit Organizations Resources**  
+📋 [**Non Profit Organizations Questions - NO ANS.pdf**](./Non%20Profit%20Organizations%20Questions%20-%20NO%20ANS.pdf)  
+Test your knowledge with thought-provoking questions on accounting principles for non-profit organizations as per **Israeli Standard 40**.  
 
-📄 Final Exam Moed A - PART B.docx
-Refers to the second part of the first final exam conducted in the 2024a first term.
+📋 [**Non Profit Organizations Questions - ANS.xlsx**](./Non%20Profit%20Organizations%20Questions%20-%20ANS.xlsx)  
+Check your answers and deepen your understanding with detailed solutions!  
 
-📄 Final Exam Moed A - ANS.xlsx
-This file consolidates the answers for both PART A and PART B into a single document for comprehensive review.
+### 3️⃣ **Final Exam Resources**  
+#### Moed A (March 27, 2024) 🗓️  
+📄 [**Final Exam Moed A - PART A.docx**](./Final%20Exam%20Moed%20A%20-%2027032024%20-%20PART%20A.docx)  
+📄 [**Final Exam Moed A - PART B.docx**](./Final%20Exam%20Moed%20A%20-%2027032024%20-%20PART%20B.docx)  
+📊 [**Final Exam Moed A - ANS.xlsx**](./Final%20Exam%20Moed%20A%20-%2027032024%20-%20ANS.xlsx)  
+Get ready for your first final exam! These resources include both parts of the exam and a consolidated answer sheet.  
 
-How to Use This Repository
-Download the Course Notes:
-Use the link above to access the full course materials.
+#### Moed B (May 2, 2024) 🗓️  
+📄 [**Final Exam Moed B - PART A.docx**](./Final%20Exam%20Moed%20B%20-%2002052024%20-%20PART%20A.docx)  
+📄 [**Final Exam Moed B - PART B.docx**](./Final%20Exam%20Moed%20B%20-%2002052024%20-%20PART%20B.docx)  
+📊 [**Final Exam Moed B - ANS.xlsx**](./Final%20Exam%20Moed%20B%20-%2002052024%20-%20ANS.xlsx)  
+Prepare for the second final exam with these materials, including both parts and their respective answers.  
 
-Explore Non-Profit Resources:
+---
 
-Review the questions-only file to test your understanding.
-Use the questions-with-answers file to verify your solutions and deepen your understanding of non-profit accounting principles.
-Final Exam Preparation:
+## 🛠️ How to Use This Repository  
+1. **Start with the Course Notes:**  
+   Familiarize yourself with key concepts and theories from the course.  
 
-Review PART A and PART B documents for the first final exam.
-Cross-check your understanding using the consolidated answers in the ANS.xlsx file.
-Acknowledgments
-This repository is curated by Dr. Shay Tsaban to support students in mastering accounting measurement and non-profit organization principles.
+2. **Non-Profit Accounting Resources:**  
+   - **Test yourself** with the questions-only file.  
+   - **Verify your understanding** with the answers file.  
 
-If you have questions or need clarification, feel free to open an issue in this repository.
+3. **Final Exam Prep:**  
+   - Review **PART A** and **PART B** documents for both Moed A and Moed B.  
+   - Cross-check your understanding using the comprehensive **answers** files.  
 
-Notes
-Regularly refer to the course notes for foundational concepts and theories.
-Use the non-profit organization resources to strengthen your understanding of specific accounting principles.
-Leverage the final exam resources for effective preparation.
-Best of luck with your studies! 🎓
+4. **Stay Updated:**  
+   Star 🌟 the repository and watch for updates to ensure you don’t miss new materials or announcements!  
 
-About
-Issues in Measurement Courseware - Ariel University
+---
 
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
+## 💡 Pro Tips for Success  
+- Regularly review the **Course Notes** for foundational concepts.  
+- Use the **non-profit resources** to master Israeli Standard 40.  
+- Leverage the **final exam materials** for focused preparation.  
+- Don’t hesitate to open an issue if you have questions!  
 
-And make the readme.md file better: more emojis, more friendly and engaging, and also link and refer to these files: Final Exam Moed B - 02052024 - ANS.xlsx
-Add files via upload
-1 minute ago
-Final Exam Moed B - 02052024 - PART A.docx
-Add files via upload
-1 minute ago
-Final Exam Moed B - 02052024 - PART B.docx
+---
 
-Whereas final exam mode b and is the answer to the second exam, and the final exam itself consists of the associated two files part an and part b. 
+## 🙌 Acknowledgments  
+This repository is lovingly curated by **Dr. Shay Tsaban** to support your journey in **accounting measurement** and **non-profit accounting principles**.  
+
+🎯 Best of luck with your studies! 🎓  
